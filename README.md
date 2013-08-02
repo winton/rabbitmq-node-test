@@ -10,6 +10,10 @@ Simple test to show how a worker queue + nack works.
 
 Go to [http://localhost:15672](http://localhost:15672).
 
+###Install amqp package
+
+    npm install
+
 ###Enqueue jobs
 
     coffee enqueue.coffee "....."
