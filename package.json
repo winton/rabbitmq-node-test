@@ -7,7 +7,7 @@
     "url": "https://github.com/winton/rabbitmq-node-test.git"
   },
   "dependencies": {
-    "amqp": "git://github.com/winton/amqp.git"
+    "amqp": "git://github.com/winton/node-amqp.git"
   },
   "devDependencies": {
   },
